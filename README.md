@@ -23,9 +23,6 @@ It allows users to blend and modulate elemental sonic textures in real time thro
 - `gui.png` – Interface screenshot
 - `logo_elements.png` – Project logo
 
-## ▶️ Demo
-
-> *(Insert image, animated GIF, or video link here when available)*
 
 ## 💻 Requirements
 
@@ -49,7 +46,7 @@ This device was developed as part of a **Master’s Final Project in Sound Art**
 ## 👤 Author
 
 Developed by **[Diego DSB Audio]**  
-[https://linktr.ee/admin]  
+[https://linktr.ee/HProject_music]  
 2025
 
 ## 📚 Acknowledgements
