@@ -4,7 +4,7 @@ Sound texture synthesizer based on the four elements of nature in the ancient wo
 
 **Elements** is a sound texture synthesizer based on the four elements of nature in the ancient world — **water**, **fire**, **air**, and **earth** — created in **PlugData** for use as a **VST plugin inside any DAW**.
 
-![Interface Screenshot](gui.png)
+![Interface Screenshot](gui.jpg)
 
 It allows users to blend and modulate elemental sonic textures in real time through an **XY pad**, generating rich, shifting, and holographic soundscapes via synthesis — no samples involved.
 
